@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Reshma Chavan
 
 # 💫 About Me:
 Results-driven IT Analyst with 3+ years of experience in global service desk operations, achieving 95% first-call resolution across 50+ daily tickets. Expert in ITSM workflows (ServiceNow, BMC Remedy), M365 ecosystem, Active Directory man-agement, and cloud infrastructure. Proven track record in process automation, user training, and implementing security solutions. Actively expanding expertise in AWS and Linux system administration.
